@@ -11,4 +11,5 @@ This repository contains:
 
 2. **Journal Admission Letter:**  
    - **From:** China Economic Review  
-   - **File:** [Admission Letter](path/to/your/admission-letter.pdf)
+   - **File:** [Admission Letter(Original document)](path/to/your/admission-letter.pdf)
+   - **File:** [Admission Letter(translated document)](path/to/your/research-paper.pdf)
