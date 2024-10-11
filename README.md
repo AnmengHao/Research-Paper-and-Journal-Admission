@@ -5,7 +5,7 @@ This repository contains:
 
 1. **Research Paper:**  
    - **Title:** Economic Cost Analysis of Phytoremediation Using Plant Rhizosphere Microbes for Heavy Metal Contamination  
-   - **File:** [Research Paper](path/to/your/research-paper.pdf)
+   - **File:** [Research Paper](https://github.com/AnmengHao/Research-Paper-and-Journal-Admission/blob/618fec19680b22d5f8223d34608dd60f3ffbe093/Anmeng%20Hao-China%20Economic%20Review.pdf)
 
 2. **Journal Admission Letter:**  
    - **From:** China Economic Review  
